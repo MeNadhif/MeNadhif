@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there 👋 , I'm Nadhif!
+Currently I am a student, but I like to learn new things in programming like Javascript, Java, PHP.
 
-<!--
-**MeNadhif/MeNadhif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+- 🌱 I’m currently learning about cloud technology for back-end apps</br>
+- 💬 Feel free to ask me about web development or JavaScript</br>
+- 📫 How to reach me: nadhif1495@gmail.com</br>
+- ⚡ Fun fact: Try your best</br>
+</details>
 
-Here are some ideas to get you started:
+### Tech Stack: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ 
+### Github Statistic: 
+<p align="center">
+<a href="https://github.com/MeNadhif">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MeNadhif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeNadhif&layout=compact&langs_count=8&theme=algolia"/>
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=MeNadhif&theme=algolia&hide_border=true">
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach Me On : 
+<a href="https://www.instagram.com/nadhiful.f/">
+  <img align="left" alt="Nadhif Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/nadhifulfadhil/">
+  <img align="left" alt="Nadhif LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
